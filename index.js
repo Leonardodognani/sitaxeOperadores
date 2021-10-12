@@ -1,5 +1,9 @@
 function compareNumbers (num1, num2) {
 
+    if(!num1 || !num2){
+        console.log("Você precisa definir 2 números para esta operação!");
+    }
+
     if(num1 === num2 && num1 + num2 < 10){
         console.log(`Os números ${num1} e ${num2} são iguais. Sua soma é ${num1 + num2}, a qual é menor que 10 e, portanto, menor que 20.`);
     } else if(num1 === num2 && num1 + num2 > 10 && num1 + num2 < 20) {
@@ -25,5 +29,4 @@ function compareNumbers (num1, num2) {
 }
     
 
-compareNumbers(5, 6);
-
+compareNumbers(9, 4);
