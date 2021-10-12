@@ -1,4 +1,4 @@
-# :book: Sintaxe e Operadores :book: Sintaxe
+# :book: Sintaxe e Operadores :book:
 ## Atividade de JavaScript
 * Desafio da Professora Stephany Nusch, pela plataforma da Digital Innovation One;
 * Resolvi de forma diferente, mas com o mesmo resultado;
